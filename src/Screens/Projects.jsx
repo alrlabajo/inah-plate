@@ -121,13 +121,13 @@ const projects = [
   },
   {
     title: "Overheat",
-    description: `A showcase of motion graphics work including logo animations, social media content, and promotional videos. Each piece demonstrates different animation techniques and storytelling approaches through motion.`,
+    description: `A wrap-up video highlighting one of our church’s dynamic youth events.`,
     video: "VIDEO/2.mp4",
     category: "Video Editing",
   },
   {
     title: "First Sunday 2025",
-    description: `A showcase of motion graphics work including logo animations, social media content, and promotional videos. Each piece demonstrates different animation techniques and storytelling approaches through motion.`,
+    description: `A short video I produced to capture the first Sunday service of 2025.`,
     video: "VIDEO/3.mp4",
     category: "Video Editing",
   },
