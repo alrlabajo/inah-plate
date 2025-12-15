@@ -123,7 +123,7 @@ const Navbar = () => {
               </li>
             ))}
             <a
-              href="INAH_CV.pdf"
+              href="LABAJO_CV.pdf"
               className="bg-teal-400 hover:bg-teal-400/95 text-white font-medium text-xs py-2 px-4 rounded-full inline-flex items-center justify-center"
             >
               <span>Hire me</span>

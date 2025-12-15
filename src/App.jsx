@@ -14,7 +14,6 @@ import Projects from "./Screens/Projects";
 import Contact from "./Screens/Contact";
 import NotFound from "./Screens/NotFound";
 import Layout from "./Components/Layout";
-import Brand from "./Screens/Brand";
 import Workflow from "./Screens/Workflow";
 
 const pageVariants = {
@@ -56,7 +55,6 @@ function AnimatedRoutes() {
           <Route path="/" element={<Hero />} />
           <Route path="/home" element={<Hero />} />
           <Route path="/the-artist" element={<About />} />
-          <Route path="/brand-identity" element={<Brand />} />
           <Route path="/creative-workflow" element={<Workflow />} />
           <Route path="/skills" element={<Skills />} />
           <Route path="/projects" element={<Projects />} />

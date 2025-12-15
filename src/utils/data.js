@@ -15,11 +15,6 @@ export const NAV_MENU_DATA = [
       },
       {
         id: "022",
-        label: "Brand Identity",
-        path: "/brand-identity",
-      },
-      {
-        id: "023",
         label: "Creative Workflow",
         path: "/creative-workflow",
       },
