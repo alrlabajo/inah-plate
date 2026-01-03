@@ -67,6 +67,7 @@ const projects = [
       "LAYOUT_DESIGN/4.jpg",
       "LAYOUT_DESIGN/5.jpg",
       "LAYOUT_DESIGN/6.jpg",
+      "LAYOUT_DESIGN/7.jpg",
     ],
     category: "Layout & Design",
   },
